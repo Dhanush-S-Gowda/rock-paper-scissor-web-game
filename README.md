@@ -38,7 +38,7 @@ This is a classic Rock, Paper, Scissors game where the user can play against the
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md]([LICENSE.md](https://github.com/Dhanush-S-Gowda/rock-paper-scissor-web-game/tree/main?tab=MIT-1-ov-file#)) file for details.
 
 ## Acknowledgments
 
