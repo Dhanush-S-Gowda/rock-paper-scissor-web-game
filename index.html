@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>rock paper scissors</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>Rock paper scissors</header>
+    <main>
+        <div class="score">
+            <span id="user-score"></span> - <span id="comp-score"></span>
+        </div>
+        <button class="reset" onclick="reset()">
+            New game
+        </button>
+        <div class="flex">
+            <div class="choice">
+                <div class="img user-img"><img src="assets\default.png" alt=""></div>
+                <div class="text flex-2">
+                    <button class="button">Rock</button>
+                    <button class="button">Paper</button>
+                    <button class="button">Scissors</button>
+                </div>
+            </div>
+            <div class="choice">
+                <div class="img comp-img"></div>
+                <div class="text comp-text">Computer chooses...</div>
+            </div>
+        </div>
+    </main>
+    <footer><p>Made by <a href="https://github.com/Dhanush-S-Gowda" target="_blank">Dhanush S Gowda</a></p></footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
