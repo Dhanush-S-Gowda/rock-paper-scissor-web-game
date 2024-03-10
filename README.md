@@ -10,6 +10,7 @@ This is a classic Rock, Paper, Scissors game where the user can play against the
 - Computer opponent with random decision-making.
 - Score tracking for each round.
 - Winner declaration upon exiting the game.
+- Responsive web page.
 
 ## Technologies Used
 
