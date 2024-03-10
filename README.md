@@ -19,7 +19,7 @@ This is a classic Rock, Paper, Scissors game where the user can play against the
 
 ## How to Play
 
-1. Open the `index.html` file in your web browser or go to .
+1. Open the `index.html` file in your web browser or go to [rock paper scissors game](https://dhanush-s-gowda.github.io/rock-paper-scissor-web-game/).
 2. You will see the game interface with images representing Rock, Paper, and Scissors.
 3. Click on the button representing your choice (Rock, Paper, or Scissors).
 4. The computer will randomly select its choice.
@@ -41,6 +41,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Images used in the game are sourced from [istockphoto.com](https://www.istockphoto.com/illustrations/rock-paper-scissors-hands).
+- Images used in the game are sourced from [istockphoto.com](https://www.istockphoto.com/vector/rock-paper-scissors-body-parts-icon-set-gm1269211670-372642551).
 
 Enjoy playing the Rock, Paper, Scissors game! 🎮
